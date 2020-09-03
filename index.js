@@ -93,4 +93,5 @@ client.on('messageReactionAdd', async (reaction, user) => {
     }
 });
 
-client.login('NzUwOTA3OTU1NTY1ODIxOTUy.X1BXhw.Z42lKVE4J4twq3iFP8VQUTTgx0A');
+
+    client.login(process.env.BOT_TOKEN);
