@@ -1,0 +1,16 @@
+{
+  "name": "plutonticketbot",
+  "version": "1.0.0",
+  "description": "Ticket Bot For Pluton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FullSendBud",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.1.0",
+    "discord.js": "^12.3.1",
+    "enmap": "^5.7.1"
+  }
+}
